@@ -65,7 +65,7 @@
 
 <div class="container">
     <h1>Welcome to KK AWS NEW BATCH</h1>
-    <h3>May 25th | 6:45 AM to 8:45 AM IST | Please reach out to me!</h3>
+    <h3>May 25th | 6:45 AM to 8:45 AM IST | Please reach out to me! 8639380177</h3>
     <h1>KK DEVOPS</h1>
 
     <hr>
