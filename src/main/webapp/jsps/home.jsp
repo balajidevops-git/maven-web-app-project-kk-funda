@@ -116,9 +116,6 @@
     <p><small>&copy; 2024 by <a href="https://google.com/">KK FUNDA</a></small></p>
 </div>
 
-<p style="text-align:center;">
-    <a href="register.jsp" style="font-size:18px; color: #2980b9; font-weight: bold;">👉 Click Here to Register for the AWS DevOps Batch</a>
-</p>
 
 
 </body>
