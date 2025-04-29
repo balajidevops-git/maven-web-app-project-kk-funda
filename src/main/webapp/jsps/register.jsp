@@ -8,7 +8,6 @@
         body {
             background-color: #f0f8ff;
             font-family: Arial, sans-serif;
-            margin: 0;
         }
         .form-container {
             width: 50%;
